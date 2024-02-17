@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "HOMEPAGE"
 title_separator          : "-"
 name                     : &name "RossChan"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Ross Chan"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Tennessee,US"
+  location         : "TENNESSEE,US"
   employer         : "Middle Tennessee state University"
   uri              : # URL
   email            : "bc7b@mtmail.mtsu.edu" 
