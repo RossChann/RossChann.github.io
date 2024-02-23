@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'am a junior student at the middle tennessee state university majoring in actuarial science and computer science. I‘m passionate about exploring interesting things in CS.
+I'm Bo Chen(Ross), a junior student at the middle tennessee state university majoring in actuarial science and computer science. I‘m passionate about exploring interesting things in CS.
 
 # Research Interest:
 - Edge computing and continuous DL
