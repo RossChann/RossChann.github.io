@@ -30,7 +30,7 @@ Project experience
   * Spring 2022   in [NUS](https://nus.edu.sg/)
   * An improved design of a software system capable of recognizing traffic light signals around the NUS campus was developed based on the Yolo image recognition model. My main work involved enhancing the graphic training process in the backend algorithm, employing unsupervised learning methods, and participating in optimization to achieve greater efficiency.
 
-* Research on the efficiency enhancement of edge deep learning in data pre-classification   Spring 2024
-  * United States
+* Research on the efficiency enhancement of edge deep learning in data pre-classification
   * ongoing
+  * United States
 
