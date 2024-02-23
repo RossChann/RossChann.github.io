@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Middle Tennessee State University, 2024-2025(expected)
+* M.S. in NingBo university, 2021-2023
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Work experience 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [HeZhengSOFT(Beijing) Data Technology Co.](https://www.heshunsoft.com/)   Summer 2023
+  * Database researcher(Intern)
+  * Beijing
+  * Assist the team in machine learning projects, including data modeling, training, and model evaluation. For instance, participate in feature selection and extraction, help construct more informative features to enhance model performance.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Project experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Improve the efficiency of traffic light image recognition  Spring 2022
+  * [NUS](https://nus.edu.sg/)
+  * An improved design of a software system capable of recognizing traffic light signals around the NUS campus was developed based on the Yolo image recognition model. My main work involved enhancing the graphic training process in the backend algorithm, employing unsupervised learning methods, and participating in optimization to achieve greater efficiency.
+
+* Research on the efficiency enhancement of edge deep learning in data pre-classification   Spring 2024
+  * United States
+  * ongoing
