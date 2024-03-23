@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in ZheJiang university 2020-2021
-* M.S. in NingBo university, 2021-2023
-* M.S. in Middle Tennessee State University, 2024-2025(expected)
+* B.S. in ZheJiang university 2020-2021
+* B.S. in NingBo university, 2021-2023
+* B.S. in Middle Tennessee State University, 2024-2025(expected)
 
 
 
