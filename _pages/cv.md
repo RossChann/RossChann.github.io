@@ -36,10 +36,10 @@ Project and Experience
   * Spring 2022   in [NUS](https://nus.edu.sg/)
   * An improved design of a software system capable of recognizing traffic light signals around the NUS campus was developed based on the Yolo image recognition model. My main work involved enhancing the graphic training process in the backend algorithm, employing unsupervised learning methods, and participating in optimization to achieve greater efficiency.
 
-* Optimization in a specific dataset interaction back-end system
-  * Optimizing the Application of User Training Data in Federated Learning Scenarios, Improving overall efficiency by adjusting the client training optimizer strategy in asynchronous FedAvg algorithm.
+* Automated machine learning model generation and analysis based on H2O-AutoML for processing IRIS data
+  * Comprehensive processing of IRIS data, utilizing H2O-AutoML to generate the optimal prediction model algorithm.
  
 * Research on the efficiency enhancement of edge deep learning in data pre-classification
+  * Optimizing the Application of User Training Data in Federated Learning Scenarios, Improving overall efficiency by adjusting the client training optimizer strategy in asynchronous FedAvg algorithm.
   * ongoing
-  * United States
 
