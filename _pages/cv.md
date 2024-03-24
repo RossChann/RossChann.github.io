@@ -39,7 +39,7 @@ Project and Experience
 * Automated machine learning model generation and analysis based on H2O-AutoML for processing IRIS data
   * Comprehensive processing of IRIS data, utilizing H2O-AutoML to generate the optimal prediction model algorithm.
  
-* Research on the efficiency enhancement of edge deep learning in data pre-classification
-  * Optimizing the Application of User Training Data in Federated Learning Scenarios, Improving overall efficiency by adjusting the client training optimizer strategy in asynchronous FedAvg algorithm.
-  * ongoing
+* Research on the efficiency enhancement of edge deep learning
+  * Optimizing the Application of Training in Federated Learning Scenarios, Improving overall efficiency by adjusting the client training optimizer strategy in asynchronous FedAvg algorithm.
+  * supervised by [LetianZhang](https://letian-zhang.github.io/)
 
