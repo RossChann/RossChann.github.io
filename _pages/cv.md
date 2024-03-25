@@ -39,6 +39,9 @@ Project and Experience
 * Automated machine learning model generation and analysis based on H2O-AutoML for processing IRIS data
   * Comprehensive processing of IRIS data, utilizing H2O-AutoML to generate the optimal prediction model algorithm.
  
+* Enhancing the Cross-Cultural Communication Capabilities of LLMs in Multilingual Environments
+  * The project focuses on enhancing LLMs' cross-cultural capabilities in multilingual settings by employing web scraping for data collection, using NLP tools for preprocessing, and fine-tuning pre-trained models like XLM-R. Challenges such as data scarcity and overfitting are managed through iterative optimization, leveraging transfer learning and model pruning. Tools and methods are sourced from GitHub and integrated to improve LLMs' performance in diverse linguistic contexts.
+ 
 * Research on the efficiency enhancement of edge deep learning
   * Optimizing the Application of Training in Federated Learning Scenarios, Improving overall efficiency by adjusting the client training optimizer strategy in asynchronous FedAvg algorithm.
   * supervised by [LetianZhang](https://letian-zhang.github.io/)
