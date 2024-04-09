@@ -21,7 +21,7 @@ Education
 Work experience 
 ======
 * Research Assistant
-  * Summer 2021 in BeiJing
+  * Summer 2022 in Toyko
   * Convergence methods in optimization problems, responsible for participating in the design of convex optimization algorithms.
 
 * [HeZhengSOFT(Beijing) Data Technology Co.](https://www.heshunsoft.com/en/)   \
