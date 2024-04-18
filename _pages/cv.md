@@ -45,4 +45,7 @@ Project and Experience
 * Research on the efficiency enhancement of edge deep learning
   * Optimizing the Application of Training in Federated Learning Scenarios, Improving overall efficiency by adjusting the client training optimizer strategy in asynchronous FedAvg algorithm.
   * supervised by [LetianZhang](https://letian-zhang.github.io/)
+ 
+* LLM on program repair
+  * ongoing
 
